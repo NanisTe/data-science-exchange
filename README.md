@@ -23,3 +23,4 @@ Collection of ideas and follow up information on data science topics. Documentin
 
 * Development Setup: OS, VSCode, Jupyter configuration, ...
 * Neo4j database introduction
+* My Experience from using Numba to speed up Numpy. [Numba Doku](https://numba.pydata.org/)
