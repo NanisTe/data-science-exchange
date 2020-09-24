@@ -22,3 +22,4 @@ Collection of ideas and follow up information on data science topics. Documentin
 # Idea collection Space
 
 * Development Setup: OS, VSCode, Jupyter configuration, ...
+* Neo4j database introduction
