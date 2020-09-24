@@ -19,6 +19,8 @@ Collection of ideas and follow up information on data science topics. Documentin
 * Dask is more deeply grounded in the PyData ecosystem, but Vaex offers some very intriguing features and apparently great performance
 * **Next steps: Try both, Dask and Vaex on a real problem and compare performance and ease-of-use**
 
+A comparison vaex vs dask vs spark [here](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)
+
 # Idea collection Space
 
 * Development Setup: OS, VSCode, Jupyter configuration, ...
