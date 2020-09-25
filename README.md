@@ -21,6 +21,8 @@ Collection of ideas and follow up information on data science topics. Documentin
 
 A comparison vaex vs dask vs spark [here](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)
 
+Another very interesting post [Analysing large data on your laptop with a database and R](https://www.r-bloggers.com/2019/12/analysing-large-data-on-your-laptop-with-a-database-and-r-by-ellis2013nz/)
+
 # Idea collection Space
 
 * Development Setup: OS, VSCode, Jupyter configuration, ...
