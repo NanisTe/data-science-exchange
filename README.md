@@ -28,3 +28,9 @@ Another very interesting post [Analysing large data on your laptop with a databa
 * Development Setup: OS, VSCode, Jupyter configuration, ...
 * Neo4j database introduction
 * My Experience from using Numba to speed up Numpy. [Numba Doku](https://numba.pydata.org/)
+
+
+# Neo4J interesting links
+
+https://www.youtube.com/watch?v=oALqiXDAYhc&t=406s
+
