@@ -4,6 +4,11 @@ Collection of ideas and follow up information on data science topics. Documentin
 
 # Topic selection of next meeting
 
+## 2020-10-15
+Topic: (Remote) Development Setup: OS, VSCode, Jupyter configuration, ...
+
+
+
 ## 2020-09-24
 
 [Python Project Template Cookiecutter](https://github.com/at-gmbh/at-python-template)
@@ -25,7 +30,7 @@ Another very interesting post [Analysing large data on your laptop with a databa
 
 # Idea collection Space
 
-* Development Setup: OS, VSCode, Jupyter configuration, ...
+
 * Neo4j database introduction
 * My Experience from using Numba to speed up Numpy. [Numba Doku](https://numba.pydata.org/)
 
